@@ -38,4 +38,6 @@ The final output is a visualization dashboard that compares key weather paramete
 - **Matplotlib** – Plotting
 - **Seaborn** – Styled visualizations
 
+# OUTPUT
+https://github.com/user-attachments/assets/a5f18a06-0135-4586-93d8-9bb2008afb99
 
